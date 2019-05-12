@@ -1,0 +1,11 @@
+ <Card title="Teste" actions={["Teste", " TEste2"]} >
+                    <div>
+                        <p><b><h5></h5></b></p>
+                        <p><h6> {this.props.match.params.id} -----
+
+                        </h6></p>
+                        <p><h6>0 Comentários</h6></p>
+                        <p><h6>33 Minutes ago by teste@teste.com</h6></p>
+
+                    </div>
+                </Card>
